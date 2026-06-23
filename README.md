@@ -143,7 +143,7 @@ Created as a portfolio project demonstrating:
 - Python programming
 - Chess rule implementation
 
-Built with ❤️ by Ivo Gunis
+Built with ❤️ by Ivo Günther
 
 ---
 
